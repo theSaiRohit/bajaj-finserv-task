@@ -1,0 +1,12 @@
+{
+    "projects": [
+        {
+            "name": "frontend",
+            "path": "/apps/frontend"
+        },
+        {
+            "name": "api",
+            "path": "apps/api"
+        }
+    ]
+}
