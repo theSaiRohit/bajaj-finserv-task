@@ -6,7 +6,7 @@ const port = 3001;
 app.use(cors());
 app.use(express.json());
 
-app.get("/", (req, res) => {
+app.get("/bfhl", (req, res) => {
   return res.status(200).json({ operation_code: 1 });
 });
 
